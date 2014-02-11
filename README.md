@@ -1,7 +1,7 @@
 FOSDEM 2014
 ===========
 
-Content regarding the EACOF presentation at FOSDEM 2014 https://fosdem.org/2014/schedule/event/eacof/
+Content regarding the EACOF presentation at FOSDEM 2014 by @[hayfield](https://github.com/hayfield) and @[JPedz](https://github.com/JPedz) - https://fosdem.org/2014/schedule/event/eacof/
 
 This contains content used during the presentation - the slides, and a draft of what was to be spoken. The slides are alternatively [available on Speaker Deck](https://speakerdeck.com/hayfield/eacof-the-energy-aware-computing-framework).
 
